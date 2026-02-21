@@ -1,2 +1,2 @@
-# CP
-Codeforces ladder and contest solutions
+# C++
+C++ problems.
